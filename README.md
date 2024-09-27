@@ -1,6 +1,8 @@
 # PyTorch-Learning
-This is a repo for some pyTorch learning.  
-Contains lots of helpful references for pyTorch fundamentals.
+This is a repo for pyTorch learning.  
+The idea is to break down and have references to look back upon for building common ML models :)
+
+Contains lots of helpful references for pyTorch fundamentals, display, and models.
 
 Check out NN from scratch if you want to understand gradient descent and backpropagation better.
 
